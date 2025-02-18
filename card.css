@@ -99,7 +99,7 @@ body {
 }
 .inside_card audio {
     display: flex;
-    margin-left: -25px;
+    margin-left: -16px;
     margin-right: 50px;
     margin-top: 50px;
 } 

@@ -240,7 +240,7 @@ body {
   
     letter-spacing: 2px;
     animation: glow 2s ease-in-out infinite alternate;
-    margin-left: -30px;
+    margin-left: -60px;
 }
 
 @keyframes glow {
